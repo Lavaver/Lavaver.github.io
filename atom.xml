@@ -1,0 +1,15 @@
+<rss xmlns:atom="https://support.microsoft.com/zh-cn/feed/atom/a569dbf6-655f-0538-18f3-c0698fa725be" version="2.0">
+<channel>
+  <title>blog_title</title>
+  <atom:link href="blog_link" rel="self" type="application/rss+xml" />
+  <link>blog_link</link>
+  <description>xxx</description>
+  <item>
+    <title><![CDATA[article_title]]></title>
+    <link>article_link</link>
+    <guid isPermaLink="false">article_id</guid>
+    <description><![CDATA[article_content]]></description>
+    <pubDate>article_date</pubDate>
+  </item>
+</channel>
+</rss>
